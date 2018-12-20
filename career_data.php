@@ -46,7 +46,7 @@
         ],
         'Projectes' => [
            [
-               'title' => 'Project 1',
+               'title' => 'Projectйцйцй   1',
                'link' => 'example1.com',
                'about' => 'orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has be',
            ],
