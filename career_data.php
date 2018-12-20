@@ -26,7 +26,7 @@
             'yearStart' => '2012',
             'yearEnd' => '2014'
             ],[
-            'title' => 'Placek #2',
+            'title' => 'Place ц #2',
             'post' => 'Post #2',
             'company' => 'Company 2',
             'city' => 'Minsk',
@@ -40,7 +40,7 @@
             'city' => 'Minsk',
             'about' =>'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has be',
             'yearStart' => '2016',
-            'yearEnd' => 'Present'
+            'yearEnd' => 'Present121212'
             ],
 
         ],
