@@ -26,7 +26,7 @@
             'yearStart' => '2012',
             'yearEnd' => '2014'
             ],[
-            'title' => 'Place work #2',
+            'title' => 'Placek #2',
             'post' => 'Post #2',
             'company' => 'Company 2',
             'city' => 'Minsk',
